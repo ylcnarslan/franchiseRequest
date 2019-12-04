@@ -1,4 +1,4 @@
-package com.mebitech.ylcn.dao;
+package com.franchise.ylcn.dao;
 
 import java.io.Serializable;
 

@@ -1,8 +1,8 @@
-package com.mebitech.ylcn.dao;
+package com.franchise.ylcn.dao;
 
 import org.springframework.stereotype.Repository;
 
-import com.mebitech.ylcn.model.Franchise;
+import com.franchise.ylcn.model.Franchise;
  
 @Repository("franchiseDao")
 public class FranchiseDaoImpl extends AbstractDao<Integer, Franchise> implements FranchiseDao {

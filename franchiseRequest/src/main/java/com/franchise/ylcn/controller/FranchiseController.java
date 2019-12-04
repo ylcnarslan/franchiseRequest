@@ -1,4 +1,4 @@
-package com.mebitech.ylcn.controller;
+package com.franchise.ylcn.controller;
 
 import java.util.Locale;
 
@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import com.mebitech.ylcn.model.Franchise;
-import com.mebitech.ylcn.service.FranchiseService;
+import com.franchise.ylcn.model.Franchise;
+import com.franchise.ylcn.service.FranchiseService;
  
 @Controller
 @RequestMapping("/")

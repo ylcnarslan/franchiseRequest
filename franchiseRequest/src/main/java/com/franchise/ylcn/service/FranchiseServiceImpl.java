@@ -1,11 +1,11 @@
-package com.mebitech.ylcn.service;
+package com.franchise.ylcn.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.mebitech.ylcn.dao.FranchiseDao;
-import com.mebitech.ylcn.model.Franchise;
+import com.franchise.ylcn.dao.FranchiseDao;
+import com.franchise.ylcn.model.Franchise;
  
 @Service("franchiseService")
 @Transactional

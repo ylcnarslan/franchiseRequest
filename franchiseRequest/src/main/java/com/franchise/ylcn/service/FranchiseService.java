@@ -1,6 +1,6 @@
-package com.mebitech.ylcn.service;
+package com.franchise.ylcn.service;
 
-import com.mebitech.ylcn.model.Franchise;
+import com.franchise.ylcn.model.Franchise;
  
 public interface FranchiseService {
  

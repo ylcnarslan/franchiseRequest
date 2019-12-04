@@ -1,4 +1,4 @@
-package com.mebitech.ylcn.model;
+package com.franchise.ylcn.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,4 +1,4 @@
-package com.mebitech.ylcn.configuration;
+package com.franchise.ylcn.configuration;
 
 import java.util.Properties;
 

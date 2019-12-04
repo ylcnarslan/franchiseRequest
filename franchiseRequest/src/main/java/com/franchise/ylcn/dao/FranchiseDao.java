@@ -1,6 +1,6 @@
-package com.mebitech.ylcn.dao;
+package com.franchise.ylcn.dao;
 
-import com.mebitech.ylcn.model.Franchise;
+import com.franchise.ylcn.model.Franchise;
  
 public interface FranchiseDao {
  
